@@ -61,6 +61,8 @@ Start the server
   npm run dev
 ```
 
+Contract Address : 0x24638112b6283c3a53ca48b1319df43a37ccc12aa10451a348628684906018f8
+
 
 ## Authors
 
