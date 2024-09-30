@@ -26,15 +26,6 @@ In addition to these core functions, the contract emphasizes leveraging blockcha
 
 - Users can interact with deployed smart contracts through their MetaMask account. This feature allows users to perform contract functions such as depositing or withdrawing tokens, executing trades, or checking the status of a transaction, all without leaving the dApp.
 
-
-## Demo
-
-Insert gif or link to demo
-
-
-![Logo]()
-
-
 ## Run Locally
 
 Clone the project
