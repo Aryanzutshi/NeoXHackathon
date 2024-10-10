@@ -5,8 +5,6 @@ The DEX (Decentralized Exchange) smart contract is designed to facilitate seamle
 
 The contract also implements a fallback function to prevent accidental Ether transfers, reinforcing security by ensuring that all Ether deposits are correctly logged. Furthermore, users can make and fill trading orders for token swaps, with a built-in fee mechanism that directs a small percentage of each trade to a designated fee account.
 
-In addition to these core functions, the contract emphasizes leveraging blockchain technology to streamline decentralized trading, promoting the ease of use and security that blockchain offers. This smart contract embodies a scalable solution for decentralized finance (DeFi) applications, making blockchain transactions more accessible and efficient for users.
-
 
 ## Features
 
