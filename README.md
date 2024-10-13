@@ -24,31 +24,6 @@ The contract also implements a fallback function to prevent accidental Ether tra
 
 - Users can interact with deployed smart contracts through their MetaMask account. This feature allows users to perform contract functions such as depositing or withdrawing tokens, executing trades, or checking the status of a transaction, all without leaving the dApp.
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Aryanzutshi/NeoXHackathon
-```
-
-Go to the project directory
-
-```bash
-  cd app
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
 
 Contract Address : 0x24638112b6283c3a53ca48b1319df43a37ccc12aa10451a348628684906018f8
 
